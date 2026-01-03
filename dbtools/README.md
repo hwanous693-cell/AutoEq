@@ -7,3 +7,4 @@ The notebook `db.ipynb` should have everything you need and the instructions on 
 ```shell
 jupyter lab db.ipynb
 ```
+jupyter lab db.ipynb
